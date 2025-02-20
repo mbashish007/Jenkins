@@ -3,7 +3,6 @@
 print("A Brave New World......\n")
 print("Initiating Contact\n")
 print("contact successfull\n")
-print("contact successfull\n")
 
 
 
