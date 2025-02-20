@@ -9,6 +9,7 @@ class TestSum(unittest.TestCase):
         """
         Test case to add two numbers
         """
+        print("Test")
         data = [20, 5]
         result = summation(data)
         self.assertEqual(result, 56)
