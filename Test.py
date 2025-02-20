@@ -11,7 +11,7 @@ class TestSum(unittest.TestCase):
         """
         print("Test4")
         print("Test4")
-        data = [20, 5]
+        data = [20, 36]
         result = summation(data)
         self.assertEqual(result, 56)
 
